@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CALCULATORS\bin\Debug\CALCULATORS.exe.config
+C:\Users\User\source\repos\CALCULATORS\bin\Debug\CALCULATORS.exe
+C:\Users\User\source\repos\CALCULATORS\bin\Debug\CALCULATORS.pdb
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.Form1.resources
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.Properties.Resources.resources
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.exe
+C:\Users\User\source\repos\CALCULATORS\obj\Debug\CALCULATORS.pdb
